@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.c-sharpcorner.com/members/ayan-ansuman4](https://www.c-sharpcorner.com/members/ayan-ansuman4)
 
-- 💬 Ask me about **C#, .Net, Sql , React**
+- 💬 Ask me about **C#, .Net, .Net MVC, .Net Core, Sql, JavaScript, React, Python**
 
 - 📫 How to reach me **ayanansuman.sahoo@gmail.com**
 
