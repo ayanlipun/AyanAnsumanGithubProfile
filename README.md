@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://ayanansumanportfolio.netlify.app/](https://ayanansumanportfolio.netlify.app/)
 
-- ⚡ Fun fact **Miles to go before getting tired.**
+- ⚡ Fun fact of Life is **Miles to go before getting tired.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
