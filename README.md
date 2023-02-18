@@ -1,6 +1,6 @@
 ![logo](https://github.com/ayanlipun/AyanAnsumanGithubProfile/blob/main/AyanBanner.jpg)
-<h1 align="center">Hi 👋, I'm Ayan Ansuamn</h1>
-<h3 align="center">A passionate Full Stack Developer from Earth</h3>
+<h1 align="center">Hi 👋, I'm Ayan Ansuman</h1>
+<h3 align="center">A Passionate Full Stack Developer from Earth</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
@@ -19,11 +19,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayanansuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayanansuman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayan-ansuman-sahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayan-ansuman-sahoo/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9102244/ayan-ansuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9102244/ayan-ansuman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayan-ansuman-sahoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayan-ansuman-sahoo/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9102244/ayan-ansuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9102244/ayan-ansuman" height="30" width="40" /></a>
 <a href="https://kaggle.com/ayanansuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayanansuman" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ayan.ansuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayan.ansuman/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ayanansuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayanansuman/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ayan.ansuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ayan.ansuman/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ayanansuman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ayanansuman/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ayanansuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayanansuman" height="30" width="40" /></a>
 </p>
 
